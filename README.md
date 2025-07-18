@@ -100,3 +100,49 @@ This involves the exploring of the given dataset to answer some questions about 
     + Used Pivot table: Rating count(same as number of reviews) plus the rating in values box in the pivot. Then sort to the top 5 using value filter. Visualised with Pivot table in the dashboard created.
    
 ## Analysed Dataset - [Amazon Analysed data](https://github.com/bumoh/Amazon-Product-Review-Analysis/blob/main/My%20Amazon%20second%20work.xlsx)
+
+## Summary(Insights From Analysis)
+
+1. **Average Discount Percentage By Product Category**
+    + Computers & Accessories: ~53.2%
+    + Electronics: ~49.9%
+    + Car & Motorbike: ~42.0%
+**Implication:** Computers & Accessories have the highest average discount. Promotions in this category may be driving more price-sensitive consumer traffic.
+
+2. **Product Count by Category**
+    + Electronics: 476 products
+    + Computers & Accessories: 375 products
+    + Car & Motorbike: 1 product
+**Implication:** Electronics dominate in variety. Investing more in this category's optimization and bundling offers could enhance conversions.
+
+3. **Total Reviews Per Category**
+    + Electronics: 14.2 million+
+    + Computers & Accessories: 6.3 million+
+    + Car & Motorbike: ~1,118
+**Implication:** High review volume indicates strong engagement in Electronics and Computers & Accessories. Consider highlighting social proof and review summaries on product pages
+
+4. **Top-Rated Products Across Categories**
+    + Every category listed has products with 5-star average ratings. ***Examples include:***
+        + Electronics: Amazon Basics Wireless Mouse
+        + Computers: REDTECH USB-C to Lightning Cable
+
+**Implication:** These can be featured in marketing campaigns and recommended listings. Also study these products to replicate their success factors.
+
+## Recommendations
+
+#### 1. **Product Improvement**
+
+  + Focus on improving underperforming items in Electronics through review mining and sentiment analysis.
+  + Use customer reviews to identify recurring complaints or praise.
+
+#### 2. **Marketing Strategy**
+
+  + Run discount campaigns centered on high-conversion categories like Computers & Accessories.
+  + Leverage top-rated products in ad creatives and influencer collaborations.
+  + Highlight star reviews and usage scenarios to boost trust.
+
+#### 3. **Customer Engagement**
+
+  + Request more reviews on products with fewer ratings via post-purchase emails.
+  + Develop personalized upsell offers based on review sentiment and categories browsed.
+  + Consider loyalty points or referral programs for reviewers in high-engagement categories.
