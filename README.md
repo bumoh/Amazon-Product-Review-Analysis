@@ -99,7 +99,7 @@ This involves the exploring of the given dataset to answer some questions about 
 14. **Identify the top 5 products in terms of rating and number of reviews combined.**
     + Used Pivot table: Rating count(same as number of reviews) plus the rating in values box in the pivot. Then sort to the top 5 using value filter. Visualised with Pivot table in the dashboard created.
    
-## Analysed Dataset - [Amazon Analysed data](https://github.com/bumoh/Amazon-Product-Review-Analysis/blob/main/My%20Amazon%20second%20work.xlsx)
+## Analysed Dataset - [Amazon Analysed data](https://docs.google.com/spreadsheets/d/1O0VSJC_x-WFm7TXO4x77A2BRae0eptgqLyOp4yrIPIU/edit?gid=278939281#gid=278939281)
 
 ## Summary(Insights From Analysis)
 
