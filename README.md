@@ -104,21 +104,21 @@ This involves the exploring of the given dataset to answer some questions about 
 ## Summary(Insights From Analysis)
 
 1. **Average Discount Percentage By Product Category**
-    + Computers & Accessories: ~53.2%
-    + Electronics: ~49.9%
-    + Car & Motorbike: ~42.0%
+    + Computers & Accessories: 53.2%
+    + Electronics: 49.9%
+    + Car & Motorbike: 42.0%
 **Implication:** Computers & Accessories have the highest average discount. Promotions in this category may be driving more price-sensitive consumer traffic.
 
 2. **Product Count by Category**
-    + Electronics: 476 products
-    + Computers & Accessories: 375 products
+    + Electronics: 443 products
+    + Computers & Accessories: 359 products
     + Car & Motorbike: 1 product
 **Implication:** Electronics dominate in variety. Investing more in this category's optimization and bundling offers could enhance conversions.
 
 3. **Total Reviews Per Category**
     + Electronics: 14.2 million+
     + Computers & Accessories: 6.3 million+
-    + Car & Motorbike: ~1,118
+    + Car & Motorbike: 1.1 million+
 **Implication:** High review volume indicates strong engagement in Electronics and Computers & Accessories. Consider highlighting social proof and review summaries on product pages
 
 4. **Top-Rated Products Across Categories**
